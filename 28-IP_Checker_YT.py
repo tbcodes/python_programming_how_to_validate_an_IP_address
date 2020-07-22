@@ -25,9 +25,9 @@ else:
     print(f"Uuupppsss!!! {user_in} is NOT a valid IP Address! ")
 
 # If I want to verify more than 1 IP Address (We can use a simple "for loop")
-for _ in range(2):
-    user_in = input("Enter your IP Address: ")
-    if ip_checker(user_in):
-        print(f"Great!!! {user_in} is a valid IP Address! ")
-    else:
-        print(f"Uuupppsss!!! {user_in} is NOT a valid IP Address! ")
+#for _ in range(2):
+#    user_in = input("Enter your IP Address: ")
+#    if ip_checker(user_in):
+#        print(f"Great!!! {user_in} is a valid IP Address! ")
+#    else:
+#        print(f"Uuupppsss!!! {user_in} is NOT a valid IP Address! ")
