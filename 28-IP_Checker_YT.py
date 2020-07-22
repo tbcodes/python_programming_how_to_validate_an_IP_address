@@ -1,4 +1,5 @@
-# Creating a IP Checker
+# Creating an IP Checker
+# Youtube Link: https://www.youtube.com/watch?v=wLV-uE-I_hA
 
 # Creating our main function
 
